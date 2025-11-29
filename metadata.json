@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 星际洞察 - AI 占星助手",
+  "description": "一个由 AI 驱动的占星助手，使用 Gemini 生成本命盘，解读行星位置，并提供个性化的占星见解。",
+  "requestFramePermissions": []
+}
